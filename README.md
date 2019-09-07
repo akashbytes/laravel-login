@@ -28,5 +28,5 @@ Post Route
 2. localhost:8000/register -> User register
 3. localhost:8000/update/id -> User update using parameter id
 
-username : kidaliez@gmaill.com
-password : 12345
+username : vikashtanwer34@gmail.com
+password : password

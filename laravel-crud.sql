@@ -42,7 +42,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `password`, `created_at`, `updated_at`) VALUES
-(1, 'Alfian Dimas Sugara', 'kidaliez@gmail.com', '$2y$10$PpRBNMU44EqiQHBbyFBp4uiN7XBs3kKvGtHYfz9RRoE6SVthIIt5G', '2018-09-10 01:29:58', '2018-09-10 19:25:12');
+(1, 'Vikash Tanwer', 'vikashtanwer34@gmail.com', '$2y$10$nVcrwRIivlcpqzyANGQROeheyU.Hew64wSxmW7PNSOBJ4C2ApdGyK', '2019-08-02 01:29:58', '2018-09-10 19:25:12');
 
 --
 -- Indexes for dumped tables
